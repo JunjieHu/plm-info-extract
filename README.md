@@ -2,7 +2,7 @@
 
 ## Meeting Note:
 - 06/13/2022
-
+Name entity recognition (NER): using the bioportal annotator API [LINK](http://data.bioontology.org/documentation) and [python script](https://github.com/ncbo/ncbo_rest_sample_code/blob/master/python/python3/annotate_text.py)
 
 ## Related Papers
 - Mintz et al. ACL'09. [Distant supervision for relation extraction without labeled data](https://aclanthology.org/P09-1113.pdf)
