@@ -17,7 +17,7 @@ def read_abstract(input_file, output_file=None):
             text.append(line.strip())
         # Skip the other lines
         else:
-            abstract = False
+            find_abstract = False
     text = ' '.join(text)
     # When given an output file, write the abstract to it
     if output_file is not None:
