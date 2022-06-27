@@ -1,0 +1,72 @@
+PMID- 23430938
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20130225
+LR  - 20211021
+IS  - 2192-8304 (Print)
+IS  - 2192-8312 (Electronic)
+IS  - 2192-8304 (Linking)
+VI  - 6
+DP  - 2012
+TI  - Zellweger Spectrum Disorder with Mild Phenotype Caused by PEX2 Gene Mutations.
+PG  - 43-6
+LID - 10.1007/8904_2011_102 [doi]
+AB  - The Zellweger spectrum disorders (ZSDs) are known to be severe disorders with 
+      onset in the newborn period or later in childhood, frequently resulting in death 
+      during childhood or adolescence. Here, we report a case of ZSD due to mutations 
+      in the PEX2 gene, with very mild phenotype. A 51-year-old Italian man was 
+      referred to us because of a clinical picture characterized by ataxia, areflexia, 
+      nystagmus, and strabismus, with childhood onset and slowly progressive course. 
+      The patient showed no cognitive impairment. Neurological examination revealed 
+      gait ataxia, dysarthria, dysmetria, areflexia, and bilateral pes cavus. Nerve 
+      conduction studies indicated a severe axonal sensorimotor polyneuropathy. Brain 
+      MRI showed marked cerebellar atrophy and absence of white matter involvement. MR 
+      spectroscopy uncovered a decreased N-acetyl aspartate peak. Biochemical analyses 
+      suggested a mild peroxisomal defect. Sequence analysis of the PEX2 gene 
+      identified two heterozygous mutations. The clinical phenotype of our patient 
+      differs from previously reported ZSD patients with PEX2 gene mutations and 
+      suggests that genetic screening of PEX2 is warranted in children and adults with 
+      otherwise unexplained autosomal recessive ataxia. MRI findings diverged from the 
+      "classic" spectrum observed in ZSDs. The moderate impairment in peroxisome 
+      biogenesis seems to affect predominantly neuronal cells in cerebellum, leading to 
+      cerebellar atrophy.
+FAU - Mignarri, Andrea
+AU  - Mignarri A
+AD  - Department of Neurological, Neurosurgical and Behavioural Sciences, Medical 
+      School, University of Siena, Viale Bracci 2, Siena, 53100, Italy.
+FAU - Vinciguerra, Claudia
+AU  - Vinciguerra C
+FAU - Giorgio, Antonio
+AU  - Giorgio A
+FAU - Ferdinandusse, Sacha
+AU  - Ferdinandusse S
+FAU - Waterham, Hans
+AU  - Waterham H
+FAU - Wanders, Ronald
+AU  - Wanders R
+FAU - Bertini, Enrico
+AU  - Bertini E
+FAU - Dotti, Maria Teresa
+AU  - Dotti MT
+FAU - Federico, Antonio
+AU  - Federico A
+LA  - eng
+PT  - Journal Article
+DEP - 20120129
+TA  - JIMD Rep
+JT  - JIMD reports
+JID - 101568557
+PMC - PMC3565677
+EDAT- 2013/02/23 06:00
+MHDA- 2013/02/23 06:01
+CRDT- 2013/02/23 06:00
+PHST- 2011/07/27 00:00 [received]
+PHST- 2011/09/30 00:00 [accepted]
+PHST- 2011/09/30 00:00 [revised]
+PHST- 2013/02/23 06:00 [entrez]
+PHST- 2013/02/23 06:00 [pubmed]
+PHST- 2013/02/23 06:01 [medline]
+AID - 102 [pii]
+AID - 10.1007/8904_2011_102 [doi]
+PST - ppublish
+SO  - JIMD Rep. 2012;6:43-6. doi: 10.1007/8904_2011_102. Epub 2012 Jan 29.

@@ -1,0 +1,104 @@
+PMID- 33912394
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220422
+IS  - 2214-4269 (Print)
+IS  - 2214-4269 (Electronic)
+IS  - 2214-4269 (Linking)
+VI  - 27
+DP  - 2021 Jun
+TI  - A novel mutation in the PEX26 gene in a family from Dagestan with members 
+      affected by Zellweger spectrum disorder.
+PG  - 100754
+LID - 10.1016/j.ymgmr.2021.100754 [doi]
+LID - 100754
+AB  - BACKGROUND: Peroxisome biogenesis disorders (PBD) are a heterogeneous group of 
+      autosomal recessive disorders that affect multiple organ systems. Approximately 
+      80% of PBD patients are classifiedin the Zellweger syndrome spectrum, which is 
+      generally caused by mutations in the PEX1, PEX6, PEX10, PEX12, or PEX26 genes. 
+      METHODS: We present the clinical characteristics of three male members with 
+      cholestatic hepatopathy and developmental delay. Next-Generation Sequencing (NGS) 
+      was used to analyze 52 genes responsible for hereditary diseases with 
+      cholestasis. The variant was confirmed by Sanger sequencing. Dried blood spot 
+      (DBS) samples of 537 newborns from Dagestan were tested for the presence of that 
+      mutation. The frequency of the mutant allele in the population of Dagestan 
+      wasestimated using the Hardy-Weinberg equilibrium. RESULTS: Symptoms of disease 
+      manifested from the first months of life as severe hepatic dysfunction and 
+      developmental delay. Physical examination showed jaundice, hepatosplenomegaly, 
+      coagulopathy, and normal or slightly elevated level of gamma-glutamyltransferase 
+      (GGT), similar to progressive familial intrahepatic cholestasis. The level of C26 
+      and ratio of C26/C22 in plasma were increased. A nucleotide variant in the PEX26 
+      gene was identified: NM_017929.6:c.347 T>A, p.(Leu116Gln) in a homozygous state. 
+      Parents and healthy siblings were heterozygous for the mutant allele. This 
+      variant was not described in the Database of Single Nucleotide Polymorphism 
+      (dbSNP), it is not registered in the Human Gene Mutation Database (HGMD) v. 
+      2020.1. The frequency of the mutant allele in the population of Dagestan is 
+      estimated to be less than 0.000931 (99% CI, 0.000929-0.000934). CONCLUSIONS: Our 
+      clinical cases from Dagestan describe the phenotype associated with the 
+      c.347 T>A,p.(Leu116Gln), variant in the PEX26 gene. We show that the onset of the 
+      clinical picture in patients with Zellweger syndrome spectrum could start with 
+      severe hepatic dysfunction and cholestasis. We suggest that biochemical screening 
+      of PBD in infants with cholestasis is necessary.
+CI  - © 2021 The Authors. Published by Elsevier Inc.
+FAU - Semenova, Natalia A
+AU  - Semenova NA
+AD  - Research Centre for Medical Genetics, 1 Moskvorechye Street, Moscow 115522, 
+      Russian Federation.
+FAU - Kurkina, Marina V
+AU  - Kurkina MV
+AD  - Research Centre for Medical Genetics, 1 Moskvorechye Street, Moscow 115522, 
+      Russian Federation.
+FAU - Marakhonov, Andrey V
+AU  - Marakhonov AV
+AD  - Research Centre for Medical Genetics, 1 Moskvorechye Street, Moscow 115522, 
+      Russian Federation.
+FAU - Dadali, Elena L
+AU  - Dadali EL
+AD  - Research Centre for Medical Genetics, 1 Moskvorechye Street, Moscow 115522, 
+      Russian Federation.
+FAU - Taran, Natalia N
+AU  - Taran NN
+AD  - Federal Research Centre of Nutrition and Biotechnology, Kashirskoe shosse, d. 21, 
+      Moscow 115446, Russian Federation.
+FAU - Strokova, Tatyana V
+AU  - Strokova TV
+AD  - Federal Research Centre of Nutrition and Biotechnology, Kashirskoe shosse, d. 21, 
+      Moscow 115446, Russian Federation.
+LA  - eng
+PT  - Journal Article
+DEP - 20210412
+TA  - Mol Genet Metab Rep
+JT  - Molecular genetics and metabolism reports
+JID - 101624422
+PMC - PMC8065337
+OTO - NOTNLM
+OT  - ALT, alanine aminotransferase
+OT  - AST, aspartate aminotransferase
+OT  - CI, confidence interval
+OT  - Cholestasis
+OT  - DBS, dried blood spot
+OT  - GGT, gamma-glutamyltranspeptidase
+OT  - Hepatic dysfunction
+OT  - LDG, lactate dehydrogenase
+OT  - OMIM, Online Mendelian Inheritance in Man
+OT  - PBD, peroxisome biogenesis disorders
+OT  - PEX26 gene
+OT  - VLCFA, very-long-chain fatty acids
+OT  - ZSD, Zellweger spectrum disorders
+OT  - Zellweger syndrome spectrum
+COIS- The authors declare that they have no competing interests.
+EDAT- 2021/04/30 06:00
+MHDA- 2021/04/30 06:01
+CRDT- 2021/04/29 06:28
+PHST- 2021/01/21 00:00 [received]
+PHST- 2021/04/02 00:00 [revised]
+PHST- 2021/04/02 00:00 [accepted]
+PHST- 2021/04/29 06:28 [entrez]
+PHST- 2021/04/30 06:00 [pubmed]
+PHST- 2021/04/30 06:01 [medline]
+AID - S2214-4269(21)00048-3 [pii]
+AID - 100754 [pii]
+AID - 10.1016/j.ymgmr.2021.100754 [doi]
+PST - epublish
+SO  - Mol Genet Metab Rep. 2021 Apr 12;27:100754. doi: 10.1016/j.ymgmr.2021.100754. 
+      eCollection 2021 Jun.

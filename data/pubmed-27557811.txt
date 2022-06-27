@@ -1,0 +1,82 @@
+PMID- 27557811
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200930
+IS  - 2192-8304 (Print)
+IS  - 2192-8312 (Electronic)
+IS  - 2192-8304 (Linking)
+VI  - 34
+DP  - 2017
+TI  - Novel PEX3 Gene Mutations Resulting in a Moderate Zellweger Spectrum Disorder.
+PG  - 71-75
+LID - 10.1007/8904_2016_10 [doi]
+AB  - BACKGROUND: Peroxisome biogenesis disorders (PBDs) may have a variable clinical 
+      expression, ranging from severe, lethal to mild phenotypes with progressive 
+      evolution. PBDs are autosomal recessive disorders caused by mutations in PEX 
+      genes, which encode proteins called peroxins, involved in the assembly of the 
+      peroxisome. Patient Description: We herein report a patient who is currently 
+      9 years old and who is compound heterozygous for two novel mutations in the PEX3 
+      gene. RESULTS: Mild biochemical abnormalities of the peroxisomal parameters 
+      suggested a Zellweger spectrum defect in the patient. Sequence analysis of the 
+      PEX3 gene identified two novel heterozygous, pathogenic mutations. CONCLUSION: 
+      Mutations in PEX3 usually result in a severe, early lethal phenotype. We report a 
+      patient compound heterozygous for two novel mutations in the PEX3 gene, who is 
+      less affected than previously reported patients with a defect in the PEX3 gene. 
+      Our findings indicate that PEX3 defects may cause a disease spectrum similar as 
+      previously observed for other PEX gene defects.
+FAU - Maxit, C
+AU  - Maxit C
+AD  - Department of Child Neurology, Hospital Italiano de Buenos Aires (HIBA), Buenos 
+      Aires, Argentina.
+FAU - Denzler, I
+AU  - Denzler I
+AD  - Department of Child Neurology, Hospital Italiano de Buenos Aires (HIBA), Buenos 
+      Aires, Argentina. ines.denzler@hospitalitaliano.org.ar.
+FAU - Marchione, D
+AU  - Marchione D
+AD  - Department of Child Neurology, Hospital Italiano de Buenos Aires (HIBA), Buenos 
+      Aires, Argentina.
+FAU - Agosta, G
+AU  - Agosta G
+AD  - Department of Child Neurology, Hospital Italiano de Buenos Aires (HIBA), Buenos 
+      Aires, Argentina.
+FAU - Koster, J
+AU  - Koster J
+AD  - Laboratory Genetic Metabolic Diseases, Academic Medical Centre, Amsterdam, The 
+      Netherlands.
+FAU - Wanders, R J A
+AU  - Wanders RJA
+AD  - Laboratory Genetic Metabolic Diseases, Academic Medical Centre, Amsterdam, The 
+      Netherlands.
+FAU - Ferdinandusse, S
+AU  - Ferdinandusse S
+AD  - Laboratory Genetic Metabolic Diseases, Academic Medical Centre, Amsterdam, The 
+      Netherlands.
+FAU - Waterham, H R
+AU  - Waterham HR
+AD  - Laboratory Genetic Metabolic Diseases, Academic Medical Centre, Amsterdam, The 
+      Netherlands.
+LA  - eng
+PT  - Journal Article
+DEP - 20160825
+TA  - JIMD Rep
+JT  - JIMD reports
+JID - 101568557
+PMC - PMC5509555
+OTO - NOTNLM
+OT  - PEX3
+OT  - Peroxisomal disorders
+OT  - Zellweger spectrum disorders
+EDAT- 2016/08/26 06:00
+MHDA- 2016/08/26 06:01
+CRDT- 2016/08/26 06:00
+PHST- 2016/03/22 00:00 [received]
+PHST- 2016/07/14 00:00 [accepted]
+PHST- 2016/06/28 00:00 [revised]
+PHST- 2016/08/26 06:00 [pubmed]
+PHST- 2016/08/26 06:01 [medline]
+PHST- 2016/08/26 06:00 [entrez]
+AID - 10 [pii]
+AID - 10.1007/8904_2016_10 [doi]
+PST - ppublish
+SO  - JIMD Rep. 2017;34:71-75. doi: 10.1007/8904_2016_10. Epub 2016 Aug 25.

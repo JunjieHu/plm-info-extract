@@ -1,0 +1,5 @@
+From	To	Text	Label
+46	48	PEX2 gene	GGP
+154	156	PEX2 gene	GGP
+174	177	PEX2 gene mutations	GGP
+183	184	PEX2	GGP

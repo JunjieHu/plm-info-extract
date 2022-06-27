@@ -1,0 +1,9 @@
+From	To	Text	Label
+25	28	PEX26 gene mutation	GGP
+41	43	PEX26 gene	GGP
+68	70	PEX26 mutation	GGP
+99	102	PEX26 gene variant	GGP
+149	151	PEX26 gene	GGP
+190	192	PEX26 mutations	GGP
+226	228	PEX26 gene	GGP
+239	241	PEX26 mutations	GGP

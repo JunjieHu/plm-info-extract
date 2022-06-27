@@ -1,0 +1,4 @@
+From	To	Text	Label
+39	41	peroxisomal protein	GGP
+155	157	PEX genes	GGP
+169	172	PEX gene mutations	GGP

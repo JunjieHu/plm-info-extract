@@ -1,0 +1,88 @@
+PMID- 34430430
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220426
+IS  - 2224-4344 (Print)
+IS  - 2224-4344 (Electronic)
+IS  - 2224-4336 (Linking)
+VI  - 10
+IP  - 7
+DP  - 2021 Jul
+TI  - PEX26 gene genotype-phenotype correlation in neonates with Zellweger syndrome.
+PG  - 1825-1833
+LID - 10.21037/tp-21-103 [doi]
+AB  - BACKGROUND: Zellweger syndrome (ZS) is commonly manifested as facial deformities, 
+      hypotonia, and liver dysfunction. However, ZS caused by PEX26 gene mutation shows 
+      a broad and dispersed clinical pattern. In this study, the PEX26 gene in ZS was 
+      analyzed to enrich its clinical characteristics. Meanwhile, phenotypic and 
+      genotypic characteristics of Zellweger spectrum disorder (ZSD) induced by PEX26 
+      mutation were evaluated. METHODS: The clinical data of newborn with ZS in our 
+      hospital were analyzed retrospectively. We performed WES and found that the 
+      infant carried the PEX26 gene variant. We searched the biomedical literature 
+      databases (PubMed, Web of Science, and EMBASE) to compare clinical features and 
+      genotypes. RESULTS: The neonate developed facial deformities, hypotonia, feeding 
+      difficulties, and seizures. Her homozygous variant was found in the PEX26 gene 
+      (NM_017929: exon2: c.34del) inherited from both parents. Electronic databases, 
+      including our case, reported 32 pathogenic variants in PEX26. We found that 
+      variation c.292C> T accounted for the largest proportion of PEX26 mutations 
+      (16/66, 24.24%). The proportion of deleterious mutations in ZS patients was 
+      significantly higher than that in NALD and IRD patients. CONCLUSIONS: We 
+      identified pathogenic variations in the PEX26 gene and expanded the known mutant 
+      spectrum. By comparing patients with PEX26 mutations, the study determined that a 
+      significantly higher percentage of deleterious mutations in ZS was associated 
+      with severe clinical phenotypic characteristics.
+CI  - 2021 Translational Pediatrics. All rights reserved.
+FAU - He, Yue
+AU  - He Y
+AD  - Department of Neonatology, Children's Hospital of Fudan University, Shanghai, 
+      China.
+FAU - Lin, Sam Bill
+AU  - Lin SB
+AD  - Department of Neonatology, Children's Hospital of Fudan University, Shanghai, 
+      China.
+FAU - Li, Wen-Xuan
+AU  - Li WX
+AD  - Department of Neonatology, Children's Hospital of Fudan University, Shanghai, 
+      China.
+FAU - Yang, Lin
+AU  - Yang L
+AD  - Clinical Genetic Center, Children's Hospital of Fudan University, Shanghai, 
+      China.
+FAU - Zhang, Rong
+AU  - Zhang R
+AD  - Department of Neonatology, Children's Hospital of Fudan University, Shanghai, 
+      China.
+FAU - Chen, Chao
+AU  - Chen C
+AD  - Department of Neonatology, Children's Hospital of Fudan University, Shanghai, 
+      China.
+FAU - Yuan, Lin
+AU  - Yuan L
+AD  - Department of Neonatology, Children's Hospital of Fudan University, Shanghai, 
+      China.
+LA  - eng
+PT  - Journal Article
+TA  - Transl Pediatr
+JT  - Translational pediatrics
+JID - 101649179
+PMC - PMC8349955
+OTO - NOTNLM
+OT  - PEX26
+OT  - Zellweger spectrum disorder (ZSD)
+OT  - Zellweger syndrome (ZS)
+OT  - newborn
+COIS- Conflicts of Interest: All authors have completed the ICMJE uniform disclosure 
+      form (available at https://dx.doi.org/10.21037/tp-21-103). The authors have no 
+      conflicts of interest to declare.
+EDAT- 2021/08/26 06:00
+MHDA- 2021/08/26 06:01
+CRDT- 2021/08/25 06:26
+PHST- 2021/03/17 00:00 [received]
+PHST- 2021/05/25 00:00 [accepted]
+PHST- 2021/08/25 06:26 [entrez]
+PHST- 2021/08/26 06:00 [pubmed]
+PHST- 2021/08/26 06:01 [medline]
+AID - tp-10-07-1825 [pii]
+AID - 10.21037/tp-21-103 [doi]
+PST - ppublish
+SO  - Transl Pediatr. 2021 Jul;10(7):1825-1833. doi: 10.21037/tp-21-103.
