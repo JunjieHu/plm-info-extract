@@ -7,7 +7,7 @@ def read_abstract(input_file, output_file=None):
     KEYSTRING = 'AB  -'
     text = []
     find_abstract = False
-    for line in open(input_file):
+    for line in open(input_file, 'r', encoding="utf8", errors='ignore'):
         # Find the first line of the abstract
         if line.startswith(KEYSTRING):
             text.append(line[len(KEYSTRING):].strip())
@@ -26,9 +26,10 @@ def read_abstract(input_file, output_file=None):
     return text
 
 # directories for inputs/abstracts/gene-tags
-in_dir = '/data/hulab/junjieh/SROP/data'
-abs_dir = '/data/hulab/junjieh/SROP/outputs/abstract'
-tag_dir = '/data/hulab/junjieh/SROP/outputs/genes'
+ROOT = '/data/hulab/junjieh/plm-info-extract'
+in_dir = f'{ROOT}/data'
+abs_dir = f'{ROOT}/outputs/abstract'
+tag_dir = f'{ROOT}/outputs/genes'
 
 # Create the nlp model
 nlp = en_ner_craft_md.load()
