@@ -51,9 +51,9 @@ for file in os.listdir(in_dir):
     doc = nlp(abstract)
     tag_file = f'{tag_dir}/{file}'
     with open(tag_file, 'w') as fout:
-        fout.write('From\tTo\tText\tLabel\n')
+        fout.write('WordFrom\tWordTo\tCharFrom\tCharTo\tText\tLabel\n')
         for x in doc.ents:
             if x.label_ == 'GGP':
-                fout.write(f'{x.start}\t{x.end}\t{x.text}\t{x.label_}\n')
+                fout.write(f'{x.start}\t{x.end}\t{x.start_char}\t{x.end_char}\t{x.text}\t{x.label_}\n')
 
 

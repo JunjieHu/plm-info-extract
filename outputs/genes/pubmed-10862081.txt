@@ -1,4 +1,4 @@
-From	To	Text	Label
-39	41	peroxisomal protein	GGP
-155	157	PEX genes	GGP
-169	172	PEX gene mutations	GGP
+WordFrom	WordTo	CharFrom	CharTo	Text	Label
+39	41	246	265	peroxisomal protein	GGP
+155	157	984	993	PEX genes	GGP
+169	172	1075	1093	PEX gene mutations	GGP
