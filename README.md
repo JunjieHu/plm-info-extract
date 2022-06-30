@@ -18,3 +18,8 @@ and Inter-Bag Attentions](https://aclanthology.org/N19-1288.pdf)
 Supervised Relation Extraction](https://aclanthology.org/P19-1134.pdf)
 - Wang et al. ACL'22. [OIE@OIA: an Adaptable and Efficient Open Information Extraction
 Framework](https://aclanthology.org/2022.acl-long.430.pdf)
+
+
+## Related Papers for Covid19 Information Extraction
+- [Extracting a Knowledge Base of Mechanisms from COVID-19 Papers](https://arxiv.org/pdf/2010.03824.pdf)
+- [CovRelex: A COVID-19 Retrieval System with Relation Extraction](https://aclanthology.org/2021.eacl-demos.4.pdf))
