@@ -75,8 +75,8 @@ def print_annotations(file, new_path, annotations, text_to_annotate,get_class=Tr
 
 		else:
 			append_write = 'w' # make a new file if not
-		with open(file, 'w') as f:
-			f.write(output + "\n")
+			with open(file, 'w') as f:
+				f.write(output + "\n")
 
 		#iterating through the loop
 		for annotation in result["annotations"]:
@@ -91,9 +91,10 @@ def print_annotations(file, new_path, annotations, text_to_annotate,get_class=Tr
 				output_string+="Error"
 				continue
 			output_string+="\t" + class_details["links"]["ontology"]
-			with open(file,append_write) as f:
+			with open(file,"a") as f:
 				f.write(output_string + "\n")
 				print(output_string)
+				f.close()
 
 
 #main():
@@ -161,3 +162,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
