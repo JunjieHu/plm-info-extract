@@ -1,0 +1,77 @@
+import sys
+import os
+
+
+#the function takes an input file which has the original dataset, output file which is where the converted dataset will be saved, and is_test_file which is set to False by dafault as arguments
+#it converts the original data into a format accpeted by the biobert-pytorch
+#saves the data into the output file given
+def convert(input_file, output_file, is_test_file=False):
+	with open(output_file, 'w') as fout:
+		first_line=True
+		header=True
+		for line in open(input_file):
+			if first_line:
+				cnt=0
+				first_line=False
+			else:
+			
+				items = line.strip().split('\t')
+				sent = items[6]
+				gene_sidx = int(items[7])
+				gene_eidx = int(items[8])
+				phon_sidx = int(items[2])+1
+				try:
+					phon_eidx = int(items[3])
+				except ValueError:
+					pass
+				try:
+					relation = 0 if items[10] == 'False' else 1
+			
+				except IndexError:
+					pass
+				#masking the gene and phenotype
+				if gene_sidx < phon_sidx:
+					new_sent = sent[: gene_sidx] + '@GENE$' + sent[gene_eidx+1: phon_sidx-1] + '@PHENOTYPE$' + sent[phon_eidx+1:]
+				else:
+					new_sent = sent[: phon_sidx-1] + '@PHENOTYPE$' + sent[phon_eidx+1: gene_sidx] + '@GENE$' + sent[gene_eidx+1:]
+				index=cnt
+		
+				if is_test_file:
+					if header:
+						fout.write(f'{"index"}\t{"sentence"}\t{"label"}\n')		
+						header=False
+					else:
+						fout.write(f'{index}\t{new_sent}\n')
+						cnt=cnt+1
+				else:
+					fout.write(f'{new_sent}\n')
+				
+
+
+
+def main():
+	
+
+		#the follwing commented lines are only used when we are training a model, therefore, uncomment the lines if you are training a model
+		#input_file_for_training = 'train.tsv'
+		#output_file_for_training = './datasets/train.tsv'
+	
+		#calling the function:
+		#convert(input_file_for_training, output_file_for_training, is_test_file=False)
+
+		#input_file_for_dev = 'dev.tsv'
+		#output_file_for_dev = '/Users/nafisaraisa/biobert-pytorch/datasets/RE/GAD/1/dev.tsv'
+		#calling the function:
+		#convert(input_file_for_dev, output_file_for_dev, is_test_file=False)
+	
+		#test.tsv
+		input_file_for_testing = '/Users/nafisaraisa/Documents/Biomedical_Data_Science/project_data/data.tsv'
+		output_file_for_testing = './datasets/test.tsv'
+		convert(input_file_for_testing, output_file_for_testing, is_test_file=True)
+		
+		
+
+
+
+if __name__=='__main__':
+	main()
