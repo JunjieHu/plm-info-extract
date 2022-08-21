@@ -82,9 +82,10 @@ git clone https://github.com/dmis-lab/biobert-py
 
 
 **4. Saving the scripts:**
-  -We will first go to the biobert-pytorch/relation-extraction directory. Then save the query_to_pubmed, phenotype_recognition.py, gene_recognition.py convert_to_biobert.py, Evaluate.sh, convert_test_results.py scripts in that directory.
-  -Now, we will create a directory called datasets within relation-extraction where the test.tsv file will be saved.
+` -We will go to the biobert-pytorch/relation-extraction directory. Then save the query_to_pubmed, phenotype_recognition.py, gene_recognition.py convert_to_biobert.py, Evaluate.sh, convert_test_results.py scripts in that directory from the All-scripts.
+  -we will create a directory called datasets within relation-extraction where the test.tsv file will be saved.
   -We will also create output directory where the test_results.txt file will be saved
+  
   
 
 
