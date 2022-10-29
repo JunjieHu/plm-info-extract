@@ -27,13 +27,13 @@ Framework](https://aclanthology.org/2022.acl-long.430.pdf)
 
 
 
+**What Does the Pipeline Do?**
+This tool downloads all the PubMed files related to the topic given as an input value, recognizes the gene and phenotype mentioned in each sentence of the abstract, does relation extraction, and finally saves all the positive and negative results in separate Html files. The positive result file has all the sentences with their PMID and sentence number discussing an association between the gene and phenotype. The negative results file has all the sentences with their PMID and sentence number that do not discuss an association between the gene and phenotype. Both files have the gene and phenotype mentions in the sentences appearing in a different color to make it more noticable. We have used the bioportal annotator for phenotype recognition, scispcay for gene recognition, and the biobert-pytorch/relation-extraction model for training and testing. 
+
+
+
+
 **Instructions to run the whole pipeline:**
-This tool downloads all the PubMed files related to the topic given as an input value, recognizes the gene and phenotype mentioned in each sentence of the abstract does relation extraction, and finally saves all the positive and negative results in separate Html files. The positive result file has all the sentences with their PMID and sentence number discussing an association between the gene and phenotype. The negative results file has all the sentences with their PMID and sentence number that do not discuss an association between the gene and phenotype. We have used the bioportal annotator for phenotype recognition, scispcay for gene recognition, and the biobert-pytorch/relation-extraction model for training and testing. 
-
-
-
-
-
 **1. Creating a virtual environment:**
 -To use this tool, we first have to run the following command:
 python -m venv .env
